@@ -1,7 +1,7 @@
 Drone Simulator – MAVLink SITL Controller
 
 A Python-based drone controller that communicates with a Software-In-The-Loop (SITL) drone using pymavlink. It provides an interactive terminal menu for takeoff, landing, waypoint missions, payload-drop simulation, and return-to-launch behavior.
-This project is compatible with ArduPilot SITL, Gazebo, and Mission Planner for monitoring flight data and viewing telemetry.
+This project is compatible with ArduPilot SITL, and Mission Planner for monitoring flight data and viewing telemetry.
 
 ✨ Features
 🛫 Manual Flight Commands
